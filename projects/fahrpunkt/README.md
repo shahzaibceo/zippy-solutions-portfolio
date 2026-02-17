@@ -43,19 +43,19 @@ The platform provides a **centralized marketplace** for automotive transactions 
 ## Screenshots (Placeholder)
 
 ### Homepage
-![Homepage](screenshots/home.png)  
+![Homepage](screenshots/home3.png)  
 The homepage displays featured vehicles, services, and popular listings with an intuitive layout for users.  
 
 ### Vehicle & Parts Listings
-![Listings](screenshots/listings.png)  
+![Listings](screenshots/service.png)  
 Shows all vehicles, parts, and services with filters for price, brand, and location.  
 
 ### User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)  
+![User Dashboard](screenshots/fahvendor.png)  
 Allows users to track favorite vehicles, service bookings, and account activities.  
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)  
+![Admin Dashboard](screenshots/fahadmin.png)  
 Admin panel provides full control over marketplace listings, user accounts, and analytics.  
 
 ---
