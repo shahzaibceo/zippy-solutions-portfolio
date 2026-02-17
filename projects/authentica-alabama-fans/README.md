@@ -47,7 +47,7 @@ The platform ensures a **secure and fair bidding process** with automated bid tr
 The homepage highlights current auctions, trending items, and categories, providing a **quick overview for users**.
 
 ### Auction Listings
-![Auction Listings](screenshots/auctionlisting.png)  
+![Auction Listings](screenshots/auctionlisting.jpeg)  
 Shows all active items with starting price, current bid, time left, and category.  
 
 ### User Dashboard
