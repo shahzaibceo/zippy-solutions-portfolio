@@ -51,7 +51,7 @@ The homepage highlights the team, upcoming events, news, and media, providing a 
 Detailed team rosters with player profiles, positions, and statistics.  
 
 ### User Dashboard
-![Schedule](screenshots/ambushuser.png)  
+![Schedule](screenshots/ambushuser.jpeg)  
 Displays upcoming competitions, results, and event details.  
 
 ### Admin Dashboard
