@@ -63,7 +63,6 @@ It is **fully responsive**, working perfectly on **desktop, tablet, and mobile d
 ![Aircraft Listings](screenshots/aircrftlisting.png)
 ![Parts & Engines](screenshots/enginelisting.png)
 ![Parts & Engines](screenshots/partlisting.png)
-![Parts & Engines](screenshots/blogs (2).png)
 
 ---
 
