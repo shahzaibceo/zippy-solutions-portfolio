@@ -43,19 +43,19 @@ The platform is **fully responsive**, optimized for desktop, tablet, and mobile,
 ## Screenshots (Placeholder)
 
 ### Homepage
-![Homepage](screenshots/home.png)  
+![Homepage](screenshots/home2.png)  
 The homepage highlights the team, upcoming events, news, and media, providing a professional and engaging landing experience.  
 
 ### Team & Rosters
 ![Team](screenshots/team.png)  
 Detailed team rosters with player profiles, positions, and statistics.  
 
-### Event & Competition Schedule
-![Schedule](screenshots/schedule.png)  
+### User Dashboard
+![Schedule](screenshots/ambushuser.png)  
 Displays upcoming competitions, results, and event details.  
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)  
+![Admin Dashboard](screenshots/ambushadmin.png)  
 Admin interface for managing teams, events, media galleries, and announcements.  
 
 ---
