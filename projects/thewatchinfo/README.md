@@ -62,7 +62,7 @@ Registered users can **create personal watch lists**, track favorite models, and
 ---
 
 ### 4️⃣ Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)  
+![Admin Dashboard](screenshots/watchadmin.png)  
 The admin dashboard is designed for **managing the entire platform**. Admins can approve listings, manage users, monitor analytics, and ensure that all data sources are synchronized correctly through ETL pipelines and automated cron jobs.  
 
 ---
