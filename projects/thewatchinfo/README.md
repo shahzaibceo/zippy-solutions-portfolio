@@ -50,19 +50,19 @@ The homepage provides a **central hub for visitors**, showing trending watches, 
 ---
 
 ### 2️⃣ Watch Listings
-![Listings](screenshots/listings.png)  
+![Listings](screenshots/watchlisting.png)  
 The listings page allows users to **browse all watches** by category, brand, or market. Each listing shows detailed specifications, price history, and seller information.  
 
 ---
 
 ### 3️⃣ User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)  
+![User Dashboard](screenshots/userdashboard.png)  
 Registered users can **create personal watch lists**, track favorite models, and monitor trending watches. The dashboard provides analytics like “Price History” and “Top Movers” personalized for each user.  
 
 ---
 
 ### 4️⃣ Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)  
+![Admin Dashboard](screenshots/admindashboard.png)  
 The admin dashboard is designed for **managing the entire platform**. Admins can approve listings, manage users, monitor analytics, and ensure that all data sources are synchronized correctly through ETL pipelines and automated cron jobs.  
 
 ---
