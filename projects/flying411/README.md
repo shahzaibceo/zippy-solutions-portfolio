@@ -54,10 +54,10 @@ It is **fully responsive**, working perfectly on **desktop, tablet, and mobile d
 ![Homepage](screenshots/home.png)
 
 ### Vendor Dashboard
-![Vendor Dashboard](screenshots/vendor-dashboard.png)
+![Vendor Dashboard](screenshots/vendor.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ### Product/Service Listings
 ![Aircraft Listings](screenshots/aircraft-list.png)
