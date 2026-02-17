@@ -2,7 +2,8 @@
 
 Zippy Solutions – A professional software solutions company providing high-quality web, mobile, and digital projects. Our portfolio showcases live projects, screenshots, tech stacks, and project features.
 
-https://zippypk.com/asserts/icons/quality_restoration_20250919185703576.jpg
+![Quality Restoration](https://zippypk.com/asserts/icons/quality_restoration_20250919185703576.jpg)
+
 🌐 Visit our company website: [ZippyPK.com](https://www.zippypk.com)
 
 ---
