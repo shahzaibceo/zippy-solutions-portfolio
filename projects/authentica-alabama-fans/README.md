@@ -43,19 +43,19 @@ The platform ensures a **secure and fair bidding process** with automated bid tr
 ## Screenshots (Placeholder)
 
 ### Homepage
-![Homepage](screenshots/home.png)  
+![Homepage](screenshots/home1.png)  
 The homepage highlights current auctions, trending items, and categories, providing a **quick overview for users**.
 
 ### Auction Listings
-![Auction Listings](screenshots/auction-listings.png)  
+![Auction Listings](screenshots/auctionlisting.png)  
 Shows all active items with starting price, current bid, time left, and category.  
 
 ### User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)  
+![User Dashboard](screenshots/auctionuser.png)  
 Allows users to **track bids**, manage favorites, and view bid history.  
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)  
+![Admin Dashboard](screenshots/auctionadmin.png)  
 Admin panel to manage auctions, users, and analytics with full control over listings and system notifications.  
 
 ---
